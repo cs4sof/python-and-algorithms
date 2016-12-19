@@ -1,5 +1,8 @@
 # python-and-algorithms
 
+Solve the challenges and post the solution on Github in your Python repository. 
+
+
 Unit 1 Goals:
 
 Using vs programming a computer scenario
