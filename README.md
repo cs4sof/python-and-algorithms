@@ -4,7 +4,7 @@ Solve the challenges and post the solution on Github in your Python repository.
 
 Unit 2 Goals: 
 
-undrstanding and using simple built-in functions such as print() and type()
+undrstand and use simple built-in functions such as print() and type()
 using multiple data types ( int, float, str,bool) 
 making custom calculators using variables 
 importing a library
